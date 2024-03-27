@@ -1,0 +1,10 @@
+C:\Users\khoa\source\repos\CVMaking\CVMaking\bin\Debug\CVMaking.exe.config
+C:\Users\khoa\source\repos\CVMaking\CVMaking\bin\Debug\CVMaking.exe
+C:\Users\khoa\source\repos\CVMaking\CVMaking\bin\Debug\CVMaking.pdb
+C:\Users\khoa\source\repos\CVMaking\CVMaking\obj\Debug\CVMaking.csprojAssemblyReference.cache
+C:\Users\khoa\source\repos\CVMaking\CVMaking\obj\Debug\CVMaking.Form1.resources
+C:\Users\khoa\source\repos\CVMaking\CVMaking\obj\Debug\CVMaking.Properties.Resources.resources
+C:\Users\khoa\source\repos\CVMaking\CVMaking\obj\Debug\CVMaking.csproj.GenerateResource.cache
+C:\Users\khoa\source\repos\CVMaking\CVMaking\obj\Debug\CVMaking.csproj.CoreCompileInputs.cache
+C:\Users\khoa\source\repos\CVMaking\CVMaking\obj\Debug\CVMaking.exe
+C:\Users\khoa\source\repos\CVMaking\CVMaking\obj\Debug\CVMaking.pdb

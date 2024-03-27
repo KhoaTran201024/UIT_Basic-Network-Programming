@@ -1,0 +1,10 @@
+C:\Users\khoa\source\repos\ap\ap\bin\Debug\ap.exe.config
+C:\Users\khoa\source\repos\ap\ap\bin\Debug\ap.exe
+C:\Users\khoa\source\repos\ap\ap\bin\Debug\ap.pdb
+C:\Users\khoa\source\repos\ap\ap\obj\Debug\ap.csprojAssemblyReference.cache
+C:\Users\khoa\source\repos\ap\ap\obj\Debug\ap.Form1.resources
+C:\Users\khoa\source\repos\ap\ap\obj\Debug\ap.Properties.Resources.resources
+C:\Users\khoa\source\repos\ap\ap\obj\Debug\ap.csproj.GenerateResource.cache
+C:\Users\khoa\source\repos\ap\ap\obj\Debug\ap.csproj.CoreCompileInputs.cache
+C:\Users\khoa\source\repos\ap\ap\obj\Debug\ap.exe
+C:\Users\khoa\source\repos\ap\ap\obj\Debug\ap.pdb

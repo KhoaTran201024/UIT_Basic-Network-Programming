@@ -1,0 +1,10 @@
+C:\Users\khoa\source\repos\SocketCommunication\SocketCommunication\bin\Debug\SocketCommunication.exe.config
+C:\Users\khoa\source\repos\SocketCommunication\SocketCommunication\bin\Debug\SocketCommunication.exe
+C:\Users\khoa\source\repos\SocketCommunication\SocketCommunication\bin\Debug\SocketCommunication.pdb
+C:\Users\khoa\source\repos\SocketCommunication\SocketCommunication\obj\Debug\SocketCommunication.csprojAssemblyReference.cache
+C:\Users\khoa\source\repos\SocketCommunication\SocketCommunication\obj\Debug\SocketCommunication.Form1.resources
+C:\Users\khoa\source\repos\SocketCommunication\SocketCommunication\obj\Debug\SocketCommunication.Properties.Resources.resources
+C:\Users\khoa\source\repos\SocketCommunication\SocketCommunication\obj\Debug\SocketCommunication.csproj.GenerateResource.cache
+C:\Users\khoa\source\repos\SocketCommunication\SocketCommunication\obj\Debug\SocketCommunication.csproj.CoreCompileInputs.cache
+C:\Users\khoa\source\repos\SocketCommunication\SocketCommunication\obj\Debug\SocketCommunication.exe
+C:\Users\khoa\source\repos\SocketCommunication\SocketCommunication\obj\Debug\SocketCommunication.pdb
