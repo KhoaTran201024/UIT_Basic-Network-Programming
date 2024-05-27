@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Secure Chat App</title>
+</head>
+<body>
+    <h1>Secure Chat App</h1>
+    <input id="username" placeholder="Username">
+    <input id="message" placeholder="Message">
+    <button onclick="sendMessage()">Send</button>
+    <ul id="messages"></ul>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.0/socket.io.js"></script>
+    <script>
+        var socket = io();
+
+        function sendMessage() {
+            var username = document.getElementById('username').value;
+            var message = document.getElementById('message').value;
+            socket.emit('message', {username: username, message: message});
+        }
+
+        socket.on('encrypted_message', function(data) {
+            var messages = document.getElementById('messages');
+            for (var user in data.messages) {
+                var li = document.createElement('li');
+                li.textContent = user + ': ' + data.messages[user];
+                messages.appendChild(li);
+            }
+        });
+    </script>
+</body>
+</html>
