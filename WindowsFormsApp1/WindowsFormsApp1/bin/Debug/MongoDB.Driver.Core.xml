@@ -4656,15 +4656,6 @@
             <param name="serverApi">The server API.</param>
             <returns>A reconfigured cluster builder.</returns>
         </member>
-        <member name="M:MongoDB.Driver.Core.Configuration.ClusterBuilderExtensions.UsePerformanceCounters(MongoDB.Driver.Core.Configuration.ClusterBuilder,System.String,System.Boolean)">
-            <summary>
-            Configures the cluster to write performance counters.
-            </summary>
-            <param name="builder">The cluster builder.</param>
-            <param name="applicationName">The name of the application.</param>
-            <param name="install">if set to <c>true</c> install the performance counters first.</param>
-            <returns>A reconfigured cluster builder.</returns>
-        </member>
         <member name="M:MongoDB.Driver.Core.Configuration.ClusterBuilderExtensions.TraceWith(MongoDB.Driver.Core.Configuration.ClusterBuilder,System.Diagnostics.TraceSource)">
             <summary>
             Configures the cluster to trace events to the specified <paramref name="traceSource"/>.
@@ -8450,25 +8441,6 @@
             <summary>
             Gets the timestamp.
             </summary>
-        </member>
-        <member name="T:MongoDB.Driver.Core.Events.Diagnostics.PerformanceCounterEventSubscriber">
-            <summary>
-            Represents an event subscriber that records certain events to Windows performance counters.
-            </summary>
-        </member>
-        <member name="M:MongoDB.Driver.Core.Events.Diagnostics.PerformanceCounterEventSubscriber.InstallPerformanceCounters">
-            <summary>
-            Installs the performance counters.
-            </summary>
-        </member>
-        <member name="M:MongoDB.Driver.Core.Events.Diagnostics.PerformanceCounterEventSubscriber.#ctor(System.String)">
-            <summary>
-            Initializes a new instance of the <see cref="T:MongoDB.Driver.Core.Events.Diagnostics.PerformanceCounterEventSubscriber"/> class.
-            </summary>
-            <param name="applicationName">The name of the application.</param>
-        </member>
-        <member name="M:MongoDB.Driver.Core.Events.Diagnostics.PerformanceCounterEventSubscriber.TryGetEventHandler``1(System.Action{``0}@)">
-            <inheritdoc />
         </member>
         <member name="T:MongoDB.Driver.Core.Events.Diagnostics.TraceSourceCommandEventSubscriber">
             <summary>

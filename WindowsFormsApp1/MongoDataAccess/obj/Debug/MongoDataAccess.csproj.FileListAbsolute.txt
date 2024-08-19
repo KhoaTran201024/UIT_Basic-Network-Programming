@@ -1,0 +1,8 @@
+C:\Users\khoa\Documents\GitHub\UIT_Basic-Network-Programming\WindowsFormsApp1\MongoDataAccess\bin\Debug\MongoDataAccess.dll
+C:\Users\khoa\Documents\GitHub\UIT_Basic-Network-Programming\WindowsFormsApp1\MongoDataAccess\bin\Debug\MongoDataAccess.pdb
+C:\Users\khoa\Documents\GitHub\UIT_Basic-Network-Programming\WindowsFormsApp1\MongoDataAccess\bin\Debug\MongoDataAccess.dll.CodeAnalysisLog.xml
+C:\Users\khoa\Documents\GitHub\UIT_Basic-Network-Programming\WindowsFormsApp1\MongoDataAccess\bin\Debug\MongoDataAccess.dll.lastcodeanalysissucceeded
+C:\Users\khoa\Documents\GitHub\UIT_Basic-Network-Programming\WindowsFormsApp1\MongoDataAccess\obj\Debug\MongoDataAccess.csprojAssemblyReference.cache
+C:\Users\khoa\Documents\GitHub\UIT_Basic-Network-Programming\WindowsFormsApp1\MongoDataAccess\obj\Debug\MongoDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\khoa\Documents\GitHub\UIT_Basic-Network-Programming\WindowsFormsApp1\MongoDataAccess\obj\Debug\MongoDataAccess.dll
+C:\Users\khoa\Documents\GitHub\UIT_Basic-Network-Programming\WindowsFormsApp1\MongoDataAccess\obj\Debug\MongoDataAccess.pdb
